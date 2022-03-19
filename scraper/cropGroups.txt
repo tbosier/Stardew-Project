@@ -1,0 +1,4 @@
+118:Special
+103:Fall
+86:Summer
+70:Spring

@@ -1,0 +1,54 @@
+58:Monsters
+59:Crows
+60:Farm Animals
+61:Fertilizing and Planting
+62:Trellis Crops
+63:Grow Times
+64:End of Season
+65:Giant Crops
+66:Crop Quality
+67:Gold per Day
+72:Blue Jazz
+73:Cauliflower
+74:Coffee Bean
+75:Garlic
+76:Green Bean
+77:Kale
+78:Parsnip
+79:Potato
+80:Rhubarb
+81:Strawberry
+82:Tulip
+83:Unmilled Rice
+88:Blueberry
+89:Corn
+90:Hops
+91:Hot Pepper
+92:Melon
+93:Poppy
+94:Radish
+95:Red Cabbage
+96:Starfruit
+97:Summer Spangle
+98:Sunflower
+99:Tomato
+100:Wheat
+105:Amaranth
+106:Artichoke
+107:Beet
+108:Bok Choy
+109:Cranberries
+110:Eggplant
+111:Fairy Rose
+112:Grape
+113:Pumpkin
+114:Yam
+120:Ancient Fruit
+121:Cactus Fruit
+122:Fiber
+123:Mixed Seeds
+124:Pineapple
+125:Taro Root
+126:Sweet Gem Berry
+127:Tea Leaves
+128:Wild Seeds
